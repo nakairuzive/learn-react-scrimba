@@ -1,7 +1,6 @@
 # learn-react-scrimba
 This repository is a collection of the projects I completed and everything I learned during the [Scrimba Learn React Path](https://scrimba.com/learn-react-c0e).
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+After completing the Scrimba Learn React Path, I also did the [Build a React Project: Movie Search App](https://scrimba.com/build-a-react-project-movie-search-app-c0u) and the [Build a Memory Game in React](https://scrimba.com/memory-game-in-react-c0a3odsk39). The projects are available for viewing in the tables below
 
 ## Learn React Projects
 |Project|Description|Code|Live Demo|
