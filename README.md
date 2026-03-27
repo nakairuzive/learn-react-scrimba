@@ -5,7 +5,7 @@ After completing the Scrimba Learn React Path, I also did the [Build a React Pro
 ## Learn React Projects
 |Project|Description|Code|Live Demo|
 |:------|:----------|:---|:--------|
-|React Fun Facts|A static React page that displays a few fun facts about React|    |         |
+|React Fun Facts|A static React page that displays a few fun facts about React|[View Code Here](https://github.com/nakairuzive/learn-react-scrimba/tree/7dab0bd906c8a89514a43a4cd70ef8ca86500f45/react-fun-fact)    |         |
 |       |           |    |         |
 |       |           |    |         |
 |       |           |    |         |
