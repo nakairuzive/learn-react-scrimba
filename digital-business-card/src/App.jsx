@@ -13,12 +13,17 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <main className='card'>
-      <Info/>
-      <About/>
-      <Interest/>
+    <section className='card'>
+      <header className="card-header">
+        <Info/>
+      </header>
+      <main className=''>
+        <About/>
+        <Interest/> 
+      </main>
       <Footer/>
-    </main>
+    </section>
+    
   )
 }
 
